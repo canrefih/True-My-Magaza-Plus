@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Mağaza</string>
+    <string name="btngiris">Giriş</string>
+    <string name="btnbarkod">Barkod</string>
+    <string name="btnayarlar">Ayarlar</string>
+    <string name="btnKaydet">KAYDET</string>
+    <string name="eID">ID</string>
+    <string name="eSifre">Şifre</string>
+</resources>
